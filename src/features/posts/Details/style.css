@@ -1,0 +1,7 @@
+.details-card-style{
+    padding: 50px;
+    border: 1px dashed gray;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    margin: 3px;
+}
